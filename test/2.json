@@ -1,15 +1,22 @@
 {
-    "name" : "Chicken Puffle",
-    "authors" : ["God"],
-    "link" : "youtube.com/KFC",
-    "sources" : ["Other"],
-    "alt-names" : ["Greatest Song Ever", "Banger Song"],
-    "is-name-official" : false,
-    "medias" : {
-        "cp" : {
-            "earliest-date" : "2015-01-01",
-            "is-date-known" : true,
-            "related-to" : "Everything"
+    "name": "Chicken Puffle",
+    "authors": [
+        "God"
+    ],
+    "link": "youtube.com/KFC",
+    "sources": [
+        "Other"
+    ],
+    "alt-names": [
+        "Greatest Song Ever",
+        "Banger Song"
+    ],
+    "is-name-official": false,
+    "medias": {
+        "cp": {
+            "earliest-date": "2015-01-01",
+            "is-date-known": true,
+            "related-to": "Everything"
         }
     }
 }
