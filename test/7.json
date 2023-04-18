@@ -14,8 +14,13 @@
     ],
     "is-name-official": false,
     "medias": {
-        "Club Penguin": {
+        "Penguin Chat": {
             "earliest-date": "2023-04-06",
+            "related-to": "",
+            "is-date-known": "on"
+        },
+        "Club Penguin": {
+            "earliest-date": "",
             "related-to": "",
             "is-date-known": "on"
         }
