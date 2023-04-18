@@ -1,10 +1,14 @@
 [
     {
         "id": 1,
-        "name": "Sans"
+        "name": "Club Penguin"
     },
     {
         "id": 3,
-        "name": "Sans Deltarune"
+        "name": "Penguin Chat"
+    },
+    {
+        "id": 4,
+        "name": "Club Penguin Island"
     }
 ]
