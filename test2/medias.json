@@ -1,1 +1,10 @@
-["Media1", "Media2", "Not media 3"]
+[
+    {
+        "id": 1,
+        "name": "Sans"
+    },
+    {
+        "id": 3,
+        "name": "Sans Deltarune"
+    }
+]
