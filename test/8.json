@@ -1,0 +1,27 @@
+{
+    "name": "Not goofed",
+    "authors": [
+        "1"
+    ],
+    "link": "",
+    "sources": [],
+    "alt-names": [],
+    "is-name-official": false,
+    "medias": {
+        "1": {
+            "earliest-date": "2015-01-23",
+            "related-to": "",
+            "is-date-known": true
+        },
+        "3": {
+            "earliest-date": "2005-01-01",
+            "related-to": "",
+            "is-date-known": false
+        },
+        "4": {
+            "earliest-date": "2018-12-12",
+            "related-to": "",
+            "is-date-known": false
+        }
+    }
+}
